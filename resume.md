@@ -2,7 +2,8 @@
 [cristian.saguil@gmail.com] . [917-834-0883]
 ## Education
 **B.A. in Computer Science**, Colgate University (2015 - 2019)
-- GPA: 3.4 / 4.0
+- GPA: 3.5 / 4.0
+- Minor: Theater
 
 ## Experience
 **Software Development Engineer**, Amazon (2019 - present, Seattle WA)
@@ -29,7 +30,7 @@
 - Built and [demoed](https://vimeo.com/296757508) a full stack application in < 24 hours. Winner of a **$2500** cash prize.
 - Github: [csaguil/flashhang](https://github.com/csaguil/flashhang)
 
-**Founder of Pigeon** Thought Into Action Incubator (2016 - 2017 Hamilton NY)
+**Founder of Pigeon** Thought Into Action Incubator (2016 - 2017, Hamilton NY)
 - Completed a year long startup incubator program.
 - Developed 2 iterations of a carpooling app for college students.
 - Selected to pitch at shark-tank style pitch competition in NYC.

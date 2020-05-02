@@ -13,21 +13,21 @@
 - Developed 6 reusable **React** components (and counting) for a suspicious activity investigation management web app using **TypeScript**, and integrated them with **Ruby/Rails** JSON APIs.
 - Serve in a weekly “on call” rotation, which entails being the first responder to high severity alarms and user reported issues 24 hours a day for one week.
 
-**Software Engineering Intern**, Directly (2018, San Francisco CA)
+**Software Engineering Intern**, [Directly](http://directly.com/) (2018, San Francisco CA)
 - Developed and released user settings dashboard using the Grails web framework and Semantic-UI to simplify developer experience.
 
 **Mobile Intern**, Rogomi (2016 - 2017, Manila Philippines)
 - Developed native iOS apps using Swift.
 
 ## Achievements
-**TEC Fellow**, True Ventures (2018, San Francisco CA)
+**TEC Fellow**, [True Ventures](https://trueventures.com/) (2018, San Francisco CA)
 - One of 15 students chosen for immersive summer Entrepreneurship program.
 - Attended weekly sit downs with Venture Capitalists, and successful entrepreneurs.
 
 **Hackathon Winner** Angel Hack (2018, San Francisco CA)
 - I was the main iOS developer for a meet up planning app.
-- Built and demoed a full stack application in < 24 hours. Winner of a **$2500** cash prize.
-- Github: /csaguil/flashhang
+- Built and [demoed](https://vimeo.com/296757508) a full stack application in < 24 hours. Winner of a **$2500** cash prize.
+- Github: [csaguil/flashhang](https://github.com/csaguil/flashhang)
 
 **Founder of Pigeon** Thought Into Action Incubator (2016 - 2017 Hamilton NY)
 - Completed a year long startup incubator program.

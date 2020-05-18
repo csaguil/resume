@@ -9,7 +9,7 @@
 **Software Development Engineer**, Amazon - Compliance tech (2019 - present, Seattle WA)  
 *Suspicious Activity Monitoring team - we maintain a full stack case management app used by human investigators.*  
 - Developed 6+ reusable **React** components in **TypeScript** as part of a front end redesign, and integrated them with **Ruby/Rails** APIs.
-- Rearchitected a free text annotation feature to use AWS DynamoDB, reducing infrastructure costs by **~$8,000** USD per year.
+- Rearchitected a free text annotation feature to use **AWS DynamoDB**, reducing infrastructure costs by **~$8,000** USD per year.
   - Migrated 4 million legacy annotations in production using a **Java** backfill script.
   - Deployed the revamped feature using a "Two-Phase Deployment" with zero service down time.
 - Serve in a weekly “on call” rotation, which entails being the first responder to high severity alarms and user reported issues 24 hours a day for one week.
